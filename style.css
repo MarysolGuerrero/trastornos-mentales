@@ -1,0 +1,35 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin-top: none;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    background-color: #F8F9F9;
+}
+
+h1 {
+    color: #37627D;
+}
+
+h2, h3 {
+    color: #5AA1CC;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    color: #5c707d;
+}
+
+header{
+    background-color: #94b8d7;
+    height: 52px;
+}
+
+.image-mentaldisorders, .image-anxiety, .image-depression, .image-bipolardisorder, .image-tept, .image-schizophrenia, .image-tca,.image-tcdd,.image-neurodevelopmentaldisorders{
+    width: 450px;
+    height: 250px;
+    text-align: center;
+    margin: 30px;
+}
+
